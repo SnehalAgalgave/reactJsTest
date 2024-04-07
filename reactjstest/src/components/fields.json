@@ -1,0 +1,31 @@
+{ 
+    "loginFields": [ 
+        { 
+            "label": "Email ID", 
+            "type": "email", 
+            "placeholder": "Enter Mail Id" 
+        }, 
+        { 
+            "label": "Password", 
+            "type": "password", 
+            "placeholder": "Enter your password" 
+        } 
+    ], 
+    "signupFields": [ 
+        { 
+            "label": "Email", 
+            "type": "email", 
+            "placeholder": "Enter your email" 
+        }, 
+        { 
+            "label": "Password", 
+            "type": "password", 
+            "placeholder": "Enter your password" 
+        }, 
+        { 
+            "label": "Confirm Password", 
+            "type": "password", 
+            "placeholder": "Confirm your password" 
+        } 
+    ] 
+}
